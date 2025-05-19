@@ -8,8 +8,8 @@ const Index = () => {
     <div className="min-h-screen bg-white">
       <div className="container mx-auto px-4 py-8">
         <Hero 
-          title="Top 5-Star Hotels in Hanoi" 
-          description="Experience the height of luxury in Vietnam's capital with our curated selection of the finest accommodations, combining traditional charm with modern elegance."
+          title="Top 5 Khách Sạn Hạng Sang Tại Hà Nội" 
+          description="Trải nghiệm đỉnh cao của sự sang trọng tại thủ đô Việt Nam với bộ sưu tập những chỗ nghỉ tuyệt vời nhất, kết hợp giữa nét quyến rũ truyền thống và sự thanh lịch hiện đại."
         />
         
         <div className="mt-8 md:mt-12">

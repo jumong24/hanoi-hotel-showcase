@@ -44,7 +44,7 @@ const HotelCard: React.FC<HotelCardProps> = ({
         <div className="text-sm font-medium">{priceRange}</div>
         <Button asChild>
           <a href={bookingUrl} target="_blank" rel="noopener noreferrer">
-            Book Now
+            Đặt Ngay
           </a>
         </Button>
       </CardFooter>
